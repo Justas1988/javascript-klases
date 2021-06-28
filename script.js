@@ -99,7 +99,7 @@ namuMasyvas.push(new Namas("Klaipėda", 1985, "Luko Gaučo g. 16", [1, 2, 3, 4, 
 namuMasyvas.push(new Namas("Radviliškis", 1896, "Garvežių g. 2", [1, 2], [5, 5]));
 
 
-console.log(namuMasyvas);
+console.log("Sugeneruotas namų masyvas: ", namuMasyvas);
 
 
 
